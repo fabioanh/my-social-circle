@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+firestore-debug.log
+firebase-debug.log
+
+# IDEs
+.idea/
+.vscode/
+
+# Project specific
+.env
+.env.local
